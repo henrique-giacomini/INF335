@@ -1,0 +1,14 @@
+# Arquivo .gitignore para projeto Java no Eclipse 
+*.class 
+*.log 
+.settings/ 
+.project 
+.classpath 
+target/ 
+bin/ 
+.metadata/ 
+*.jar 
+*.war 
+*.ear 
+Thumbs.db 
+.DS_Store 
